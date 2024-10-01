@@ -1,0 +1,2 @@
+ROS-TCP-Endpoint:quest2ros
+-DCMAKE_BUILD_TYPE=Release -DCATKIN_DEVEL_PREFIX=/workspaces/cloudgripper-quest/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/workspaces/cloudgripper-quest/catkin_ws/install -G Unix Makefiles

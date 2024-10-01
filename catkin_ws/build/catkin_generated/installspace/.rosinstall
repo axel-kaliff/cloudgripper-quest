@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /workspaces/cloudgripper-quest/catkin_ws/install/setup.sh
